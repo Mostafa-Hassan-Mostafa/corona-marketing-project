@@ -13,7 +13,9 @@
 This project was created as part of the **Management of Marketing** course at Helwan University (BIS Department).  
 The goal was to select a **real company**, analyze its market, and propose a **new product** that could realistically be launched.
 
-Our team chose **Corona Company**, a well-known Egyptian chocolate and confectionery brand, and proposed a new **ice cream product line** named **Corono**.
+We chose **Corona Company**, a well-known Egyptian chocolate and confectionery brand, and proposed a new **ice cream product line** named **Corono**.
+
+> 📌 This project was completed **in collaboration with a team** as part of our coursework.
 
 ---
 
@@ -76,38 +78,56 @@ Our team chose **Corona Company**, a well-known Egyptian chocolate and confectio
 
 ## 🖼 Project Slides
 <p align="center">
-<img src="images/Slide2.PNG" width="600"/>
-<img src="images/Slide3.PNG" width="600"/>
-<img src="images/Slide4.PNG" width="600"/>
-<img src="images/Slide5.PNG" width="600"/>
-<img src="images/Slide6.PNG" width="600"/>
-<img src="images/Slide7.PNG" width="600"/>
-<img src="images/Slide8.PNG" width="600"/>
-<img src="images/Slide9.PNG" width="600"/>
-<img src="images/Slide10.PNG" width="600"/>
-<img src="images/Slide11.PNG" width="600"/>
-<img src="images/Slide12.PNG" width="600"/>
-<img src="images/Slide13.PNG" width="600"/>
-<img src="images/Slide14.PNG" width="600"/>
-<img src="images/Slide15.PNG" width="600"/>
-<img src="images/Slide16.PNG" width="600"/>
-<img src="images/Slide17.PNG" width="600"/>
-<img src="images/Slide18.PNG" width="600"/>
-<img src="images/Slide19.PNG" width="600"/>
-<img src="images/Slide20.PNG" width="600"/>
-<img src="images/Slide21.PNG" width="600"/>
-<img src="images/Slide22.PNG" width="600"/>
-<img src="images/Slide23.PNG" width="600"/>
-<img src="images/Slide24.PNG" width="600"/>
-<img src="images/Slide25.PNG" width="600"/>
-<img src="images/Slide26.PNG" width="600"/>
-<img src="images/Slide27.PNG" width="600"/>
-<img src="images/Slide28.PNG" width="600"/>
-<img src="images/Slide29.PNG" width="600"/>
+  <img src="images/Slide2.PNG" width="300"/>
+  <img src="images/Slide3.PNG" width="300"/>
+  <img src="images/Slide4.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide5.PNG" width="300"/>
+  <img src="images/Slide6.PNG" width="300"/>
+  <img src="images/Slide7.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide8.PNG" width="300"/>
+  <img src="images/Slide9.PNG" width="300"/>
+  <img src="images/Slide10.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide11.PNG" width="300"/>
+  <img src="images/Slide12.PNG" width="300"/>
+  <img src="images/Slide13.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide14.PNG" width="300"/>
+  <img src="images/Slide15.PNG" width="300"/>
+  <img src="images/Slide16.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide17.PNG" width="300"/>
+  <img src="images/Slide18.PNG" width="300"/>
+  <img src="images/Slide19.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide20.PNG" width="300"/>
+  <img src="images/Slide21.PNG" width="300"/>
+  <img src="images/Slide22.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide23.PNG" width="300"/>
+  <img src="images/Slide24.PNG" width="300"/>
+  <img src="images/Slide25.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide26.PNG" width="300"/>
+  <img src="images/Slide27.PNG" width="300"/>
+  <img src="images/Slide28.PNG" width="300"/>
+</p>
+<p align="center">
+  <img src="images/Slide29.PNG" width="300"/>
 </p>
 
 ---
 
 ## 📌 Notes
 This project demonstrates **market research**, **strategic marketing planning**, and **product launch execution** skills.  
-It can be used as a portfolio piece for **Business Analysis** and **Marketing** positions.
+It can be used as a portfolio piece for **Business Analysis**, **Data Analysis**, and **Marketing** positions.
