@@ -1,6 +1,11 @@
-<!-- Project Header -->
+<!-- Animated Header -->
 <h1 align="center">🍦 Corona Marketing Project - Corono Ice Cream</h1>
 <h3 align="center">Market Study & Product Launch Strategy</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FF5733&center=true&vCenter=true&width=600&lines=Marketing+Analysis;Product+Development;Brand+Positioning;Pricing+Strategy" alt="Typing Animation" />
+</p>
 
 ---
 
@@ -9,6 +14,16 @@ This project was created as part of the **Management of Marketing** course at He
 The goal was to select a **real company**, analyze its market, and propose a **new product** that could realistically be launched.
 
 Our team chose **Corona Company**, a well-known Egyptian chocolate and confectionery brand, and proposed a new **ice cream product line** named **Corono**.
+
+---
+
+## 🛠 Tools & Skills Used
+<p align="center">
+<img src="https://img.shields.io/badge/Market%20Research-4CAF50?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pricing%20Strategy-FF9800?style=for-the-badge&logo=money&logoColor=white"/>
+<img src="https://img.shields.io/badge/Brand%20Positioning-2196F3?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Target%20Segmentation-9C27B0?style=for-the-badge&logo=chart-bar&logoColor=white"/>
+</p>
 
 ---
 
@@ -61,23 +76,35 @@ Our team chose **Corona Company**, a well-known Egyptian chocolate and confectio
 
 ## 🖼 Project Slides
 <p align="center">
-<img src="images/slide1.png" width="600"/>
-<img src="images/slide2.png" width="600"/>
-<img src="images/slide3.png" width="600"/>
-<img src="images/slide4.png" width="600"/>
-<img src="images/slide5.png" width="600"/>
-<img src="images/slide6.png" width="600"/>
+<img src="images/Slide2.PNG" width="600"/>
+<img src="images/Slide3.PNG" width="600"/>
+<img src="images/Slide4.PNG" width="600"/>
+<img src="images/Slide5.PNG" width="600"/>
+<img src="images/Slide6.PNG" width="600"/>
+<img src="images/Slide7.PNG" width="600"/>
+<img src="images/Slide8.PNG" width="600"/>
+<img src="images/Slide9.PNG" width="600"/>
+<img src="images/Slide10.PNG" width="600"/>
+<img src="images/Slide11.PNG" width="600"/>
+<img src="images/Slide12.PNG" width="600"/>
+<img src="images/Slide13.PNG" width="600"/>
+<img src="images/Slide14.PNG" width="600"/>
+<img src="images/Slide15.PNG" width="600"/>
+<img src="images/Slide16.PNG" width="600"/>
+<img src="images/Slide17.PNG" width="600"/>
+<img src="images/Slide18.PNG" width="600"/>
+<img src="images/Slide19.PNG" width="600"/>
+<img src="images/Slide20.PNG" width="600"/>
+<img src="images/Slide21.PNG" width="600"/>
+<img src="images/Slide22.PNG" width="600"/>
+<img src="images/Slide23.PNG" width="600"/>
+<img src="images/Slide24.PNG" width="600"/>
+<img src="images/Slide25.PNG" width="600"/>
+<img src="images/Slide26.PNG" width="600"/>
+<img src="images/Slide27.PNG" width="600"/>
+<img src="images/Slide28.PNG" width="600"/>
+<img src="images/Slide29.PNG" width="600"/>
 </p>
-
----
-
-## 👥 Team Members
-- Rozana Mohamed Ahmed Soliman  
-- Soliman Ahmed Soliman Mansour  
-- Adham Ali Zaki Hassan  
-- Yassen Mostafa Al Sayed Abdallah  
-- Yousef Mohamed Yousef Elyan  
-- **Mostafa Hassan Mostafa Ahmed**  
 
 ---
 
